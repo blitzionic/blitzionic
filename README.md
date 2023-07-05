@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://https://blitzionic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/andyzhu68)
+  [![Spotify](https://blitzionic.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/andyzhu68)
 </div>
 
 &nbsp;<div align="center">
